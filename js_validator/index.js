@@ -64,7 +64,6 @@ const customMessages = {
     }
 };
 
-
 const formValidator = new Validator();
 
 formValidator.registerMessages(customMessages);
